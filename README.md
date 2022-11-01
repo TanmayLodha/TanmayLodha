@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 
-- 🌱 I’m currently learning **Low Level Design**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **C/C++/Java**
 
