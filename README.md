@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Node, React, Nest**
 
-- 💬 Ask me about **C/C++/Java**
+- 💬 Ask me about **C/C++/Java/Javascript**
 
 - 📫 How to reach me **tanmaylodha01@gmail.com**
 
