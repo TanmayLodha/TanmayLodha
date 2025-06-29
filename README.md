@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 
-- 🌱 I’m currently learning **Node, React, Nest**
+- 💻 SDE @Amazon
 
-- 💬 Ask me about **C/C++/Java/Javascript**
+- 🌱 I’m currently learning **GO**
 
-- 📫 How to reach me **tanmaylodha01@gmail.com**
+- 📫 Reach me at **tanmaylodha01@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1-bT-CjS3Jd5TmC6epnBEADf_jaGqU9ZA/view?usp=sharing)
 
